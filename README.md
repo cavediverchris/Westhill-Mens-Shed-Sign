@@ -8,7 +8,7 @@ As a result of this oppourtunity, I felt that my very first project should be a 
 
 Using the tutorial I was able to make my own for the Westhill Men's Shed
 
-![screenshot](resources/rendered-preview.png)
+![screenshot](resources/rendered-preview.PNG)
 
 # 
 
