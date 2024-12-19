@@ -26,4 +26,16 @@ This project is based on the following endmills:
 
 2. TBD
 
- 
+## Toolpaths
+
+This product is completed in three operations:
+
+1. Pocket 1 - this cuts the outline of the letters and inner border only
+
+2. Pocket 1 [Clear 1] - this removes the material outside of the letters and takes down the overall surface
+
+3. Cut out - this will then do the outer border and leave securing tabs.
+
+## Maching Time
+
+VCarve Pro estimated a total machining time of approximately 2 hr 21 minutes. With the first two pocket cuts taking approximately an hour each.
