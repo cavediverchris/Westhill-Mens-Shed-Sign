@@ -6,10 +6,9 @@ As a result of this oppourtunity, I felt that my very first project should be a 
 
 ![screenshot](resources/source-inspiration.png)
 
-
 Using the tutorial I was able to make my own for the Westhill Men's Shed
 
-INSERT RENDER OF MY PROJECT HERE
+![screenshot](resources/rendered-preview.png)
 
 # 
 
@@ -17,7 +16,7 @@ INSERT RENDER OF MY PROJECT HERE
 
 ## CNC Software
 
-This project file was built using ....
+This project file was built using Vectric VCarve Pro v12.011
 
 ## Endmills
 
