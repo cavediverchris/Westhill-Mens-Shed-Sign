@@ -1,0 +1,31 @@
+[33mcommit c7f8f959c59b5cef2c2c11351263a209a017a918[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: cavediverchris <cancerchris88+github@gmail.com>
+Date:   Thu Dec 19 21:30:51 2024 +0000
+
+    adding in rendered preview of the product
+
+[33mcommit f9d0e1cfb8c5db0db87806b1fd90cb58209dcdf1[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Chris <cavediverchris@users.noreply.github.com>
+Date:   Wed Dec 18 23:49:54 2024 +0000
+
+    Update README.md
+    
+    Added image reference to the source inspiration
+
+[33mcommit 49fd9113e7614901c527de59aa1b7093ef9bae60[m
+Author: cavediverchris <cancerchris88+github@gmail.com>
+Date:   Wed Dec 18 23:43:59 2024 +0000
+
+    Updated the description for the project readme.md file, also added the project file
+
+[33mcommit 6e822c69c58a1c6c6bf115111f3e55fe8687d929[m
+Author: cavediverchris <cancerchris88+github@gmail.com>
+Date:   Wed Dec 18 23:32:01 2024 +0000
+
+    Started the project description in the repo readme.md file. Also created the resources folder ready for documentation assets
+
+[33mcommit 3380eaa6969834fa2670e0f9070926f41dd51243[m
+Author: Chris <cavediverchris@users.noreply.github.com>
+Date:   Wed Dec 18 22:53:11 2024 +0000
+
+    Initial commit
